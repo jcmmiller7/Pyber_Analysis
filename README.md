@@ -14,7 +14,10 @@ Line Chart Visualization:
 
 The summary and line chart demonstrate several important findings:
 - Rural cities have the highest average fare per rider and per driver because they have least amount of total demand and a driver shortage.
-- Suburban cities generate about 4 times the total revenue and Urban cities generate nearly eight times the total revenue compared to urban cities. 
-- 
-## Summary
+- Suburban cities generate about 4 times the total revenue and Urban cities generate nearly eight times the total revenue compared to rural cities. 
+- The data appears to show an inverse reltationship between average fare and number of drivers. This means lower fares in areas with lots of drivers and higher fares in areas with less drivers. This follows the law of supply and demand.
+## Business Suggestions
+1) Higher more drivers in the rural and suburban areas to meet demand. This will create more revenue for these market segments. Perhaps offering promotional incentives for drivers will lead to an increase in business. 
+2) Fare's and revenues are clearly most consistent in urban areas. Perhaps offering promotional for the ride sharing users (ie. discounts or a free trip after a certain amount of rides) will help ensure market stability. 
+3) Average fare per ride is higher in rural areas most likely because of the driver shortage and longer driving distances. Perhaps a new pricing strategy would be more efficient in rural areas to accomodate for the differences that are not experienced in urban areas.  
 
